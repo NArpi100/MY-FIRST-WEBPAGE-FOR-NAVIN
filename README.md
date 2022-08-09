@@ -7,8 +7,7 @@
 
 </head>
 <body style= 
-
-       " 
+      " 
          
          
          margin:0;
@@ -21,15 +20,15 @@
        display:flex;
        justify-content:center;
        align-items:center;">
-<video autoplay muted loop style=" 
-       position:absolute;
+<video autoplay muted loop style=
+"      position:absolute;
        top:0;
        left:0;
        width:100%;
        height:100%;
        object-fit:cover;
       ">
-<source src="https://youtu.be/bwPfXmAe5qk"
+<source src="https://youtube/bwPfXmAe5qk"
  type="video/mp4">
 </video>
 
